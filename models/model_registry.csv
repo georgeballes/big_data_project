@@ -1,0 +1,2 @@
+model_name,model_version,model_path,scaler_path,pca_path,n_clusters,created_at
+customer_segmentation,1.0,/home/ubuntu/big_data_project/models/kmeans_model_3_clusters.pkl,/home/ubuntu/big_data_project/models/scaler.pkl,/home/ubuntu/big_data_project/models/pca.pkl,3,2025-03-29 11:38:03
