@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/big_data_project/mlruns/894492297540269256/522dc7f3945f4cf793967ad2b82aa7a7/artifacts
+end_time: 1743262681766
+entry_point_name: ''
+experiment_id: '894492297540269256'
+lifecycle_stage: active
+run_id: 522dc7f3945f4cf793967ad2b82aa7a7
+run_name: kmeans_3_clusters
+run_uuid: 522dc7f3945f4cf793967ad2b82aa7a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743262677112
+status: 3
+tags: []
+user_id: ubuntu
